@@ -1,8 +1,8 @@
 •	The two microservices are running and registered:
 	Account service:
 	
-	(https://github.com/siluf/lab6-microservices/blob/test/Documentacion/AccountService.png)
-	(https://github.com/siluf/lab6-microservices/blob/test/Documentacion/AccountServiceDesdeRegistrationServerRun.png)
+	![alt text](https://github.com/siluf/lab6-microservices/blob/test/Documentacion/AccountService.png)
+	![alt text](https://github.com/siluf/lab6-microservices/blob/test/Documentacion/AccountServiceDesdeRegistrationServerRun.png)
 	
 	Web Server:
 	
